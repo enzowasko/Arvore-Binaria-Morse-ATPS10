@@ -1,6 +1,8 @@
 # 🌲 Árvore Binária de Código Morse  
 **Autor:** Enzo Wasko Amorim, Bernardo Schlottag Müller
+
 **Disciplina:** Resolução de Problemas Estruturados em Computação
+
 **Professor:** Andrey Cabral Meira
 
 ---
