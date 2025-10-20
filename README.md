@@ -51,15 +51,9 @@ Todos os caracteres de **A–Z** e **0–9** são inseridos automaticamente conf
 raiz
  ├── . (E)
  │    ├── . (I)
- │    │    ├── . (S)
- │    │    │    └── . (H)
- │    │    │         └── . (5)
- │    │    └── - (V)
+ │    │    └── . (S)
  │    └── - (A)
  └── - (T)
-      ├── . (N)
-      │    ├── . (D)
-      │    │    └── . (B)
       └── - (M)
            └── - (O)
 ---
